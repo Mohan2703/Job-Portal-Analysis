@@ -1,2 +1,2 @@
 # Job-Portal-Analytics
-### View Project Demo - <a href="https://jobportal-analysis.netlify.app/"><strong>➥ Live Demo</strong></a>
+### View Live Project Demo - <a href="https://jobportal-analysis.netlify.app/"><strong>➥ JobPortal-Analytics</strong></a>
